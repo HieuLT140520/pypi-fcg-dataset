@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: my-package-jiecub3
+Version: 1.0.0
+Summary: A simple Python package
+Home-page: https://github.com/yourname/my-package
+Author: Your Name
+Author-email: Your Name <your.email@example.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: black>=22.0; extra == "dev"
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
+
+# My Package
+
+A simple Python package.
+
+## Installation
+
+```bash
+pip install my-package
+```
+
+## Usage
+
+```python
+from my_package import hello, add
+
+print(hello("World"))  # Hello, World!
+print(add(1, 2))       # 3
+```
+
+## CLI
+
+```bash
+my-hello
+```
+
+## License
+
+MIT

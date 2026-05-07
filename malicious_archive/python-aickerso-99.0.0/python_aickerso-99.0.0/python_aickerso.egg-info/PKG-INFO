@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: python-aickerso
+Version: 99.0.0
+Summary: Security research - dependency confusion test
+Author: Security Research
+Author-email: realvivek@protonmail.com
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary

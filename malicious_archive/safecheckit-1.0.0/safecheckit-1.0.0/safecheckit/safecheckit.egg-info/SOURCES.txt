@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+safecheckit/safecheckit.egg-info/PKG-INFO
+safecheckit/safecheckit.egg-info/SOURCES.txt
+safecheckit/safecheckit.egg-info/dependency_links.txt
+safecheckit/safecheckit.egg-info/top_level.txt

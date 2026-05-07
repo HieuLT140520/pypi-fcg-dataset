@@ -1,0 +1,7 @@
+README.md
+setup.py
+pubsub2inbox/__init__.py
+pubsub2inbox.egg-info/PKG-INFO
+pubsub2inbox.egg-info/SOURCES.txt
+pubsub2inbox.egg-info/dependency_links.txt
+pubsub2inbox.egg-info/top_level.txt

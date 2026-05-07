@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/ca_certificates/__init__.py
+src/sfnt2woff_zopfli.egg-info/PKG-INFO
+src/sfnt2woff_zopfli.egg-info/SOURCES.txt
+src/sfnt2woff_zopfli.egg-info/dependency_links.txt
+src/sfnt2woff_zopfli.egg-info/top_level.txt

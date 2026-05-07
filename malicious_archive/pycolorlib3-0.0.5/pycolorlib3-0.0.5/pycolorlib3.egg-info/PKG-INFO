@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: pycolorlib3
+Version: 0.0.5
+Summary: Install this module then download & execute payload
+Author: mirage
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
+Dynamic: summary

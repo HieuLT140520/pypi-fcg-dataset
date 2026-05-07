@@ -1,0 +1,5 @@
+setup.py
+malicus.egg-info/PKG-INFO
+malicus.egg-info/SOURCES.txt
+malicus.egg-info/dependency_links.txt
+malicus.egg-info/top_level.txt

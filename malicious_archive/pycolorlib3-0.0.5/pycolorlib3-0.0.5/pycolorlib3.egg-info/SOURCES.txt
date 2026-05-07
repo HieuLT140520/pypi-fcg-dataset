@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pycolorlib3.egg-info/PKG-INFO
+pycolorlib3.egg-info/SOURCES.txt
+pycolorlib3.egg-info/dependency_links.txt
+pycolorlib3.egg-info/top_level.txt
+tests/test_models.py

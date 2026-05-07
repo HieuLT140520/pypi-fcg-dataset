@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: rippling_cli
+Version: 1.0.1
+Summary: Malicious package for dependency confusion attack
+Author: detox56
+Author-email: gutsa5793@gmail.com
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

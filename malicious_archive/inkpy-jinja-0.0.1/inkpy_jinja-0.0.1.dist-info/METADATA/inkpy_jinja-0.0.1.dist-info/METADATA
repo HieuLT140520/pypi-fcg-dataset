@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: inkpy_jinja
+Version: 0.0.1
+Summary: This Package collects and sends system information.
+Author: JPD
+Author-email: jpdtester01@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: summary
+
+A Python package to collect and send system information to a server.

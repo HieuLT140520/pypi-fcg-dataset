@@ -1,0 +1,14 @@
+﻿# Data lớn - không push
+fcg_malnet/
+malicious_src/
+benign_src/
+file_csv_data/
+malnet-graph/gnn/data/
+malnet-graph/gnn/results/
+*.pt
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/

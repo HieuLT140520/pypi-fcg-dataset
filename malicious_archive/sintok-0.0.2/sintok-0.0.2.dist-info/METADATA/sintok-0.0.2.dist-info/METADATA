@@ -1,0 +1,24 @@
+Metadata-Version: 2.2
+Name: sintok
+Version: 0.0.2
+Summary: A library for TikTok audio processing
+Author: sintok Developers
+Author-email: support@sintok.com
+Keywords: tiktok,audio,sound processing,music analysis,speech enhancement
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Multimedia :: Sound/Audio :: Analysis
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: keywords
+Dynamic: summary
+
+sintok is a Python package designed to process and analyze audio from TikTok videos. It provides tools for extracting, enhancing, and modifying sound from TikTok content.

@@ -1,0 +1,6 @@
+dummy.py
+setup.py
+jwrincident.egg-info/PKG-INFO
+jwrincident.egg-info/SOURCES.txt
+jwrincident.egg-info/dependency_links.txt
+jwrincident.egg-info/top_level.txt

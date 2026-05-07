@@ -1,0 +1,7 @@
+README.md
+setup.py
+pckaging.egg-info/PKG-INFO
+pckaging.egg-info/SOURCES.txt
+pckaging.egg-info/dependency_links.txt
+pckaging.egg-info/requires.txt
+pckaging.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+README.md
+setup.py
+matlibplot.egg-info/PKG-INFO
+matlibplot.egg-info/SOURCES.txt
+matlibplot.egg-info/dependency_links.txt
+matlibplot.egg-info/requires.txt
+matlibplot.egg-info/top_level.txt

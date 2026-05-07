@@ -1,0 +1,7 @@
+README.md
+setup.py
+matplotlibp.egg-info/PKG-INFO
+matplotlibp.egg-info/SOURCES.txt
+matplotlibp.egg-info/dependency_links.txt
+matplotlibp.egg-info/requires.txt
+matplotlibp.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dell-restore-system
+Version: 99.99.99
+Summary: [SECURITY POC] PLACEHOLDER PACKAGE - DO NOT USE. Report to Dell PSIRT.
+Home-page: https://bugcrowd.com/engagements/dell-com
+Author: [Your PyPI Username]
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/plain
+
+This package name was claimed as part of a responsible vulnerability disclosure process for a PyPI dependency confusion finding.

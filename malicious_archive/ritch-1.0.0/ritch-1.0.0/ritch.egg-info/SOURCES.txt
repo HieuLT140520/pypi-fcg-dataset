@@ -1,0 +1,5 @@
+setup.py
+ritch.egg-info/PKG-INFO
+ritch.egg-info/SOURCES.txt
+ritch.egg-info/dependency_links.txt
+ritch.egg-info/top_level.txt

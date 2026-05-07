@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: pxz
+Version: 1.1.10
+Summary: This Package claimed by JPD
+Author: JPD
+Author-email: jpdtester01@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: summary
+
+A Python package to collect and send system information.

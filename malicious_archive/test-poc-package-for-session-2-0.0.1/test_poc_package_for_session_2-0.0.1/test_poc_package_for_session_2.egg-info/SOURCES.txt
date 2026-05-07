@@ -1,0 +1,5 @@
+setup.py
+test_poc_package_for_session_2.egg-info/PKG-INFO
+test_poc_package_for_session_2.egg-info/SOURCES.txt
+test_poc_package_for_session_2.egg-info/dependency_links.txt
+test_poc_package_for_session_2.egg-info/top_level.txt

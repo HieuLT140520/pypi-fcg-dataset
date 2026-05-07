@@ -1,0 +1,2 @@
+[console_scripts]
+kube-health = kube_health:main

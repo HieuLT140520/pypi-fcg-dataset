@@ -1,0 +1,7 @@
+README.md
+setup.py
+python_aickerso/__init__.py
+python_aickerso.egg-info/PKG-INFO
+python_aickerso.egg-info/SOURCES.txt
+python_aickerso.egg-info/dependency_links.txt
+python_aickerso.egg-info/top_level.txt

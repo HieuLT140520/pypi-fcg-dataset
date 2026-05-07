@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+pyQubee.egg-info/PKG-INFO
+pyQubee.egg-info/SOURCES.txt
+pyQubee.egg-info/dependency_links.txt
+pyQubee.egg-info/top_level.txt
