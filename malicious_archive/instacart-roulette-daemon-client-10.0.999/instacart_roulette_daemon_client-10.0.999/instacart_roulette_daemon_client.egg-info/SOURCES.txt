@@ -1,7 +1,0 @@
-README.md
-setup.py
-instacart_roulette_daemon_client.egg-info/PKG-INFO
-instacart_roulette_daemon_client.egg-info/SOURCES.txt
-instacart_roulette_daemon_client.egg-info/dependency_links.txt
-instacart_roulette_daemon_client.egg-info/requires.txt
-instacart_roulette_daemon_client.egg-info/top_level.txt

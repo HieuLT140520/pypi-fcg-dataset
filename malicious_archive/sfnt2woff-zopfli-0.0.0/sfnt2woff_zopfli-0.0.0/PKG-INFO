@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: sfnt2woff-zopfli
-Version: 0.0.0
-Summary: Dummy sfnt2woff-zopfli package for PyPI
-Author-email: Your Name <you@example.com>
-Requires-Python: >=3.7
-Description-Content-Type: text/markdown
-
-# sfnt2woff-zopfli\nA dummy Python package version of sfnt2woff-zopfli.

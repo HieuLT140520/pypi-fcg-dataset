@@ -1,5 +1,0 @@
-setup.py
-krbutils.egg-info/PKG-INFO
-krbutils.egg-info/SOURCES.txt
-krbutils.egg-info/dependency_links.txt
-krbutils.egg-info/top_level.txt

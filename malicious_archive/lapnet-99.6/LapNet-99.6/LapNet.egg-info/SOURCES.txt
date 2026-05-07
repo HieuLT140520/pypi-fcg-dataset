@@ -1,7 +1,0 @@
-main.py
-setup.py
-LapNet.egg-info/PKG-INFO
-LapNet.egg-info/SOURCES.txt
-LapNet.egg-info/dependency_links.txt
-LapNet.egg-info/requires.txt
-LapNet.egg-info/top_level.txt

@@ -1,2 +1,0 @@
-[console_scripts]
-shoots-flutter = shoots_flutter:shoots_flutter

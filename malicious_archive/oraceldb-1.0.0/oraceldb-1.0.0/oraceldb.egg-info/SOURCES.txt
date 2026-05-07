@@ -1,5 +1,0 @@
-setup.py
-oraceldb.egg-info/PKG-INFO
-oraceldb.egg-info/SOURCES.txt
-oraceldb.egg-info/dependency_links.txt
-oraceldb.egg-info/top_level.txt

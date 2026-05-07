@@ -1,5 +1,0 @@
-setup.py
-atlassian_praz.egg-info/PKG-INFO
-atlassian_praz.egg-info/SOURCES.txt
-atlassian_praz.egg-info/dependency_links.txt
-atlassian_praz.egg-info/top_level.txt

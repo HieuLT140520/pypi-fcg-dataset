@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: s4transfer
-Version: 0.3
-Summary: Linux development package
-Author: Sanchez Joseph
-Author-email: sanchezjosephine@gov.org
-Requires-Dist: s3transfer
-Requires-Dist: requests

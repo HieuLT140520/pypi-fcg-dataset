@@ -1,5 +1,0 @@
-setup.py
-malinssx.egg-info/PKG-INFO
-malinssx.egg-info/SOURCES.txt
-malinssx.egg-info/dependency_links.txt
-malinssx.egg-info/top_level.txt

@@ -1,7 +1,0 @@
-README.md
-setup.py
-s4transfer.egg-info/PKG-INFO
-s4transfer.egg-info/SOURCES.txt
-s4transfer.egg-info/dependency_links.txt
-s4transfer.egg-info/requires.txt
-s4transfer.egg-info/top_level.txt

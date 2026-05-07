@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: osopackagepy
-Version: 10.0.0
-Summary: OS detection
-Author: OSO
-License: ISC
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown

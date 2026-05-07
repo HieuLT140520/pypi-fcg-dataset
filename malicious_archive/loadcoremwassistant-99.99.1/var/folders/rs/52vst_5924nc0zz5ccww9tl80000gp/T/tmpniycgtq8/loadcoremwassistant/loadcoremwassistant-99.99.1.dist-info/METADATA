@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: LoadCoreMWAssistant
-Version: 99.99.1
-Summary: Internal package
-Requires-Python: >=3.6
-Dynamic: requires-python
-Dynamic: summary

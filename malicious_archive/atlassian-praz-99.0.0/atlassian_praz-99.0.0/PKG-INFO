@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: atlassian_praz
-Version: 99.0.0
-Summary: Security research proof of concept - dependency confusion
-Author: Praz (Security Researcher)
-Author-email: praz1572@bugcrowdninja.com
-Dynamic: author
-Dynamic: author-email
-Dynamic: summary

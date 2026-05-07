@@ -1,5 +1,0 @@
-setup.py
-pydantics.egg-info/PKG-INFO
-pydantics.egg-info/SOURCES.txt
-pydantics.egg-info/dependency_links.txt
-pydantics.egg-info/top_level.txt

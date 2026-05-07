@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: my-fun-tools
-Version: 0.1.1
-Author: lvxianzhi
-Requires-Dist: pycryptodome>=3.20.0
-Requires-Dist: cffi
-Dynamic: author

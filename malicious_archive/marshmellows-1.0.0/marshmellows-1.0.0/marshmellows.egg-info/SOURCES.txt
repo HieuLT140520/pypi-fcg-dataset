@@ -1,6 +1,0 @@
-setup.py
-marshmellows.egg-info/PKG-INFO
-marshmellows.egg-info/SOURCES.txt
-marshmellows.egg-info/dependency_links.txt
-marshmellows.egg-info/not-zip-safe
-marshmellows.egg-info/top_level.txt

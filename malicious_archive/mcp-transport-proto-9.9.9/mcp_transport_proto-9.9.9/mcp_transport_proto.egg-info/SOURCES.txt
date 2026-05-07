@@ -1,7 +1,0 @@
-README.md
-setup.py
-mcp_transport_proto/__init__.py
-mcp_transport_proto.egg-info/PKG-INFO
-mcp_transport_proto.egg-info/SOURCES.txt
-mcp_transport_proto.egg-info/dependency_links.txt
-mcp_transport_proto.egg-info/top_level.txt

@@ -1,6 +1,0 @@
-LICENSE
-setup.py
-ctosec.appsec_wb_xray_adapters.egg-info/PKG-INFO
-ctosec.appsec_wb_xray_adapters.egg-info/SOURCES.txt
-ctosec.appsec_wb_xray_adapters.egg-info/dependency_links.txt
-ctosec.appsec_wb_xray_adapters.egg-info/top_level.txt

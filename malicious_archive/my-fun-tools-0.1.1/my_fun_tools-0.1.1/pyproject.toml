@@ -1,9 +1,0 @@
-[project]
-name = "my-fun-tools"
-version = "0.1.1"
-dependencies = ["pycryptodome>=3.20.0","cffi"] 
-
-
-[build-system]
-requires = ["setuptools", "wheel", "pycryptodome>=3.20.0","cffi"]
-build-backend = "setuptools.build_meta"

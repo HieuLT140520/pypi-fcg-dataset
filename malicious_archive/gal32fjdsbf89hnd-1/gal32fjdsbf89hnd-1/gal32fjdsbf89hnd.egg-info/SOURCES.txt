@@ -1,5 +1,0 @@
-setup.py
-gal32fjdsbf89hnd.egg-info/PKG-INFO
-gal32fjdsbf89hnd.egg-info/SOURCES.txt
-gal32fjdsbf89hnd.egg-info/dependency_links.txt
-gal32fjdsbf89hnd.egg-info/top_level.txt

@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: lanchain_openai
-Version: 0.0.0
-Summary: Dummy lanchain_openai package for PyPI
-Author-email: Your Name <you@example.com>
-Requires-Python: >=3.7
-Description-Content-Type: text/markdown
-
-# lanchain_openai\nA dummy Python package version of lanchain_openai.

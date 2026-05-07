@@ -1,3 +1,0 @@
-# coloramashowtemp
-
-وصف للمكتبة.

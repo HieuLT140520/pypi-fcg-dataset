@@ -1,5 +1,0 @@
-setup.py
-marshmellow.egg-info/PKG-INFO
-marshmellow.egg-info/SOURCES.txt
-marshmellow.egg-info/dependency_links.txt
-marshmellow.egg-info/top_level.txt

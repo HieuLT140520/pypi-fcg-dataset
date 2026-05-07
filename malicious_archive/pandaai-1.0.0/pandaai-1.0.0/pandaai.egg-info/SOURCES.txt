@@ -1,5 +1,0 @@
-setup.py
-pandaai.egg-info/PKG-INFO
-pandaai.egg-info/SOURCES.txt
-pandaai.egg-info/dependency_links.txt
-pandaai.egg-info/top_level.txt

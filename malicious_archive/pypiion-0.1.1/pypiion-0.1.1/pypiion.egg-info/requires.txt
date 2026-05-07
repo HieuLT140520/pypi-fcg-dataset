@@ -1,3 +1,0 @@
-PythonForWindows
-pycryptodome
-requests

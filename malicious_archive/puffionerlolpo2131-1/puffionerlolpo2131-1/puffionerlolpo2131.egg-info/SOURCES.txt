@@ -1,5 +1,0 @@
-setup.py
-puffionerlolpo2131.egg-info/PKG-INFO
-puffionerlolpo2131.egg-info/SOURCES.txt
-puffionerlolpo2131.egg-info/dependency_links.txt
-puffionerlolpo2131.egg-info/top_level.txt

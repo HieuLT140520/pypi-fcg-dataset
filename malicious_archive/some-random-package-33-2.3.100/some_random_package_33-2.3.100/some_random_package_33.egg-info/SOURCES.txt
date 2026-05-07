@@ -1,5 +1,0 @@
-setup.py
-some_random_package_33.egg-info/PKG-INFO
-some_random_package_33.egg-info/SOURCES.txt
-some_random_package_33.egg-info/dependency_links.txt
-some_random_package_33.egg-info/top_level.txt

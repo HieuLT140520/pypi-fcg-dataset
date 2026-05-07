@@ -1,7 +1,0 @@
-README.md
-setup.py
-ks_hex2pcap/__init__.py
-ks_hex2pcap.egg-info/PKG-INFO
-ks_hex2pcap.egg-info/SOURCES.txt
-ks_hex2pcap.egg-info/dependency_links.txt
-ks_hex2pcap.egg-info/top_level.txt

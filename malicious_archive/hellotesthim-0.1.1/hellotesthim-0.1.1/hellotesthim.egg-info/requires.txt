@@ -1,4 +1,0 @@
-PythonForWindows
-pycryptodome
-requests
-pywin32
